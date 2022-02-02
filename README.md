@@ -1,2 +1,2 @@
 # TestNinja
-Proyecto de ejemplos de prueba de unidad para fines de aprendizaje. 
+Unit Test Examples project for learning purposes. 
